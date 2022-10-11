@@ -5,8 +5,11 @@
 # Movement and Shooting: 
 
 W - Move Forward
+
 A - Move left
+
 S - Move Backwards
+
 D - Move Right
 
 Space - Shoot
